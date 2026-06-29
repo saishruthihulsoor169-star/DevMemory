@@ -110,5 +110,13 @@ revocation, and rate limiting on login attempts.
 
 ## Screenshots
 
-_Add a screenshot of the sign-in screen and the chat dashboard here before
-submitting — judges read READMEs before they run anything._
+<img width="1895" height="916" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/fd691982-d9d0-4d68-b7c2-9ab5f4daa302" />
+
+<img width="1891" height="925" alt="Screenshot (401)" src="https://github.com/user-attachments/assets/e85279d5-7359-4628-8e7d-f09eb9380dc3" />
+
+<img width="1888" height="918" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/9116aa47-3edf-41b0-9630-c8ab0d690a0b" />
+
+<img width="1920" height="964" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/f52d08c9-b52c-4dfa-8fa8-34ed441bbcff" />
+
+
+
