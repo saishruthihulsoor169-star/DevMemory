@@ -1,5 +1,5 @@
 """
-Lightweight authentication for CodeMentor AI.
+Lightweight authentication for DevMemory AI.
 
 This is intentionally dependency-free (only the Python standard library) so
 it runs anywhere main.py already runs -- no new pip installs needed before

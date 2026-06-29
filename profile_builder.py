@@ -2,7 +2,7 @@
 Builds a short "developer profile" from a student's logged topics --
 skills, current project, and what they seem to be focused on right now.
 
-This is what turns CodeMentor from "a chatbot with memory" into something
+This is what turns DevMemory from "a chatbot with memory" into something
 that actually shows you a profile of who you are as a developer, built
 from what you've talked about, not just a longer scrollback.
 """
