@@ -1,0 +1,7 @@
+.env
+users.json
+topics.json
+__pycache__/
+*.pyc
+venv/
+.venv/
